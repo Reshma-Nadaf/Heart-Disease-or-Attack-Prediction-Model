@@ -2,6 +2,7 @@ pandas
 numpy
 scikit-learn
 matplotlib
+seaborn
 sklearn
 python
 jupyter notebook/google colab
