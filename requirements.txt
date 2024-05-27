@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+sklearn
+python
+jupyter notebook/google colab
